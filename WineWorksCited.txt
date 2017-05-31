@@ -1,0 +1,7 @@
+﻿Works Cited
+
+
+P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
+        Modeling wine preferences by data mining from physicochemical properties.
+In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
+https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt
